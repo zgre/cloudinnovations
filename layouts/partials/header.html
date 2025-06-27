@@ -1,0 +1,28 @@
+<div class="header header-absolute">
+  <div class="container">
+    <div class="logo">
+      <a href="{{ .Site.BaseURL }}">
+        <img 
+          src="{{ .Site.Params.logo.desktop | relURL }}" 
+          alt="{{ .Site.Params.logo.alt }}" 
+          height="{{ .Site.Params.logo.desktop_height }}" 
+          style="height: {{ .Site.Params.logo.desktop_height }}px; width: auto;"
+        />
+      </a>
+    </div>
+    <nav class="main-menu">
+      <ul>
+        <li class="{{ if eq .RelPermalink "/" }}active{{ end }}">
+          <a href="{{ .Site.BaseURL }}">HOME</a>
+        </li>
+        <li class="{{ if eq .RelPermalink "/services/" }}active{{ end }}">
+          <a href="{{ "services" | relURL }}">SERVICES</a>
+        </li>
+        <li class="{{ if eq .RelPermalink "/about/" }}active{{ end }}">
+          <a href="{{ "about" | relURL }}">ABOUT</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+

@@ -1,0 +1,29 @@
+.header .container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 32px;  /* Adjust as needed */
+  padding-right: 32px; /* Adjust as needed */
+  box-sizing: border-box;
+}
+
+.logo img, .logo-mobile img {
+  max-height: 48px;  /* set your preferred height */
+  height: auto;
+  width: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.scroll-arrow {
+  display: inline-block;
+  font-size: 2rem;
+  margin-top: 2rem;
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+}
+.scroll-arrow:hover {
+  color: #cccccc;
+}
+

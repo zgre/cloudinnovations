@@ -1,0 +1,35 @@
+baseURL = "https://cloudinnovations.netlify.app/"
+languageCode = "en-us"
+title = "Cloud Innovations"
+theme = "hugo-hero-theme"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = "Cloud Innovations – IT Solutions Provider "
+  author = "Cloud Innovations"
+  
+  customCSS = ["css/custom.css"]
+[params.logo]
+  desktop = "img/logo.png"
+  desktop_height = "80"      # Use just the number, no px or quotes
+  mobile = "img/logo.png"
+  mobile_height = "50"
+  alt = "Cloud Innovations Logo"
+
+[[menu.main]]
+  name = "HOME"
+  url = "/#home"
+  weight = 1
+
+[[menu.main]]
+  name = "SERVICES"
+  url = "/#services"
+  weight = 2
+
+[[menu.main]]
+  name = "ABOUT"
+  url = "/#about"
+  weight = 3
+
