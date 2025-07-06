@@ -6,7 +6,7 @@ heroBackground: "img/hero.jpg"
 <br>
 <br>
 
-Cloud Innovations offers a comprehensive range of IT solutions:
+Cloud Innovations Labs offers a comprehensive range of IT solutions:
 
 - **Cloud Migration & Integration**
 - **Software Development**
