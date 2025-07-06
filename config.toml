@@ -1,6 +1,6 @@
 baseURL = "https://cloudinnovations.netlify.app/"
 languageCode = "en-us"
-title = "Cloud Innovations"
+title = "Cloud Innovations Labs"
 theme = "hugo-hero-theme"
 
 [markup.goldmark.renderer]
