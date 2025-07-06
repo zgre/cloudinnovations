@@ -1,7 +1,11 @@
 ---
 title: "Contact"
+heroBackground: "img/hero.jpg"
 ---
-
+---
+<br>
+<br>
+<br>
 Unit 2A, 17/F, Glenealy Tower, No.1 Glenealy
 Central, Hong Kong S.A.R
 
