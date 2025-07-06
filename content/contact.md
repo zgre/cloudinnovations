@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 heroBackground: "img/hero.jpg"
+draft: false
 ---
 ---
 <br>
