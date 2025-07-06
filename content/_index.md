@@ -1,5 +1,5 @@
 ---
-title: "Cloud Innovations"
+title: "Cloud Innovations Labs"
 heroBackground: "img/hero.jpg"
 heroHeading: "Your Trusted IT Partner"
 heroSubHeading: "Cloud solutions"
@@ -31,7 +31,7 @@ heroSubHeading: "Cloud solutions"
 <section id="about">
   <h2>About</h2>
   <p>
-    Cloud Innovations is a global IT solutions provider dedicated to empowering businesses worldwide with the latest technology...
+    Cloud Innovations Labs is a global IT solutions provider dedicated to empowering businesses worldwide with the latest technology...
   </p>
 </section>
 
